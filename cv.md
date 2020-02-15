@@ -28,3 +28,9 @@ Java developer
 *Oct 2019 - Present*
 - Fixing Bugs on the product
 - Developing new functional for the product
+
+##### Education: 
+Samara University -- BSc in Computer Science
+
+##### Languages;
+English - Upper-Intermediate (B2)
