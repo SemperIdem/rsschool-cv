@@ -4,11 +4,11 @@
 
 > Curious Java developer is looking for a new technoligy challenges. Willing to learn JavaScrip and Frontend.
  
-##### Contact Info
+#### Contact Info
 - E-mail:  faintler915@gmail.com
 - Github: [SemperIdem](https://github.com/SemperIdem/)
 
-##### Areas of expertise:
+#### Areas of expertise:
 - Java
 - SQL
 - HTML
@@ -18,19 +18,19 @@
 - Gradle
 - Linux
 
-##### Code examples:
+#### Code examples:
 Coming soon
 
 
-##### Experience: 
+#### Experience: 
 **Gattaca-Company**
 Java developer
 *Oct 2019 - Present*
 - Fixing Bugs on the product
 - Developing new functional for the product
 
-##### Education: 
+#### Education: 
 Samara University -- BSc in Computer Science
 
-##### Languages;
+#### Languages;
 English - Upper-Intermediate (B2)
