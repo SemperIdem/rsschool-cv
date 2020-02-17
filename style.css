@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 1024px;
+    background-color: #e2e2e8;
+    padding-top: 5px;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+}
+
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.chapter {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border: black solid 1px;
+}
+
+
+
+.field {
+    display: flex;
+    align-items: flex-start;
+    width: 30%;
+}
+
+.description {
+    display: flex;
+    align-items: flex-start;
+    width: 70%;
+    padding-left: 10px;
+}
